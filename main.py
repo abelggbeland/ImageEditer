@@ -12,6 +12,3 @@ for infile in os.listdir(folder_dir) :
 
     head.save(f"out/resized {infile}", "png")
 
-
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
